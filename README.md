@@ -10,7 +10,7 @@ conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
 pip install pybullet jupyterlab transforms3d matplotlib shapely descartes  
 
 ## Reference
-[gnn motion planning](https://github.com/rainorangelemon/gnn-motion-planning)
-[NEXT learning to plan](https://github.com/NeurEXT/NEXT-learning-to-plan) 
-[PyBullet planning](https://github.com/caelan/pybullet-planning)
+[gnn motion planning](https://github.com/rainorangelemon/gnn-motion-planning)  
+[NEXT learning to plan](https://github.com/NeurEXT/NEXT-learning-to-plan)   
+[PyBullet planning](https://github.com/caelan/pybullet-planning)  
 [PyBullet](https://github.com/bulletphysics/bullet3)
